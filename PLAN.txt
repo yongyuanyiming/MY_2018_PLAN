@@ -1,0 +1,7 @@
+generate exe
+exe run
+os
+os every driver
+windbg
+phthon
+asm
