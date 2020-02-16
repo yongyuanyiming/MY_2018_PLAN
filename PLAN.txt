@@ -1,7 +1,3 @@
-generate exe
-exe run
-os
-os every driver
-windbg
-phthon
-asm
+2020 plan
+linux 
+widows
